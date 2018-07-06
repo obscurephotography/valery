@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "HAPPY 20!"
+theme = "after dark"
+
+
